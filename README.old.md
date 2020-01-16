@@ -1,1 +1,0 @@
-# The getting started example
